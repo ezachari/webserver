@@ -1,6 +1,5 @@
 # webserver
-Веб-сервер на C++
-
+Веб-сервер на C++ | gesperan, ezachari, bsophia.
 # Введение в HTTP
 # Сокеты
 # bind
