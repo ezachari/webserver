@@ -1,8 +1,8 @@
 # webserver
 Веб-сервер на C++
 
-Subject:
-Team : [Gesperan](https://github.com/sharkofsteppe) | [Ezachari](https://github.com/ezachari) | [Bsophia]
+Subject: [placeholder]
+Team : [Gesperan](https://github.com/sharkofsteppe) | [Ezachari](https://github.com/ezachari) | [placeholder]
 
 
 # Введение в HTTP
