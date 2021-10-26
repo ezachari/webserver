@@ -1,7 +1,7 @@
 # webserver
 Веб-сервер на C++
 
-Subject: [placeholder]
+Subject: [webserver](en.subject.pdf)
 Team : [Gesperan](https://github.com/sharkofsteppe) | [Ezachari](https://github.com/ezachari) | [Bsophia](https://github.com/Alexander-Lugovoy)
 
 
